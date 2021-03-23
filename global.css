@@ -1,0 +1,21 @@
+a{
+    text-decoration: none;
+}
+li{
+    list-style-type: none;
+}
+
+/* COLOR */
+
+.grey{
+    color: #576074;
+}
+.grey-2{
+    color: #3E4450;
+}
+.green{
+    color: #16DF7E;
+}
+.light{
+    color:#f9f9fa;
+}
