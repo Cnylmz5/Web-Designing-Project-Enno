@@ -5,6 +5,8 @@
 }
 html{
     font-family: 'Roboto', sans-serif;
+    scroll-behavior: smooth;
+
 }
 body{
     line-height: 1.5;
